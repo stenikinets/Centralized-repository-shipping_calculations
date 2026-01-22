@@ -1,3 +1,5 @@
+# Here is a new update by stenikinets
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
